@@ -13,16 +13,16 @@ Social Network API is a web application where users can share their thoughts, re
 - [Questions](#questions)
 
 ## Installation
-To utilize the application locally, clone the repository from GitHub and enter npm install in the command line to install all dependencies.
+To utilize the application locally, clone the repository from GitHub and enter `npm install` in the terminal to install all dependencies.
 
 ## Usage
-node server.js to start the server
+Enter `node server.js` in the terminal to start the server.
 
 ## Contributing
 If you would like to contribute to this project, please pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
 ## Tests
-Test were performed in insomnia and can be seen in the video linked below.
+Tests were performed in insomnia and can be seen in the video linked below.
 https://watch.screencastify.com/v/KIuvTcuZBf8yB70XuuI8
 
 ## Questions
